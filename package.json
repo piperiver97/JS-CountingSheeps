@@ -1,0 +1,22 @@
+{
+  "name": "js-countingsheeps",
+  "version": "1.0.0",
+  "description": "<h1>JS-CountingSheeps</h1>\r <h2>Instrucciones:</h2>",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piperiver97/JS-CountingSheeps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piperiver97/JS-CountingSheeps/issues"
+  },
+  "homepage": "https://github.com/piperiver97/JS-CountingSheeps#readme",
+  "devDependencies": {
+    "vitest": "^2.0.3"
+  }
+}
